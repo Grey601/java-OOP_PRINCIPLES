@@ -5,5 +5,4 @@ public class Post {
     public String phone;
     public FormDate birthday;
     public String passport;
-    // добавьте другие поля
 }

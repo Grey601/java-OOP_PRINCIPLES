@@ -10,6 +10,5 @@ public class Main {
         post.birthday.month = 6;
         post.birthday.year = 1983;
         post.passport = "4506 №456765";
-        // заполните другие поля
     }
 }
